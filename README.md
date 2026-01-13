@@ -1,5 +1,5 @@
 
-# MetaVoice: Biological Liveness and Forensic Inference
+# AI MetaVoice: Biological Liveness and Forensic Inference
 
 "In a world of quantum-secured labs and digital assassins, the most dangerous weapon isn't a virus—it's a voice you think you can trust."
 — **Eric Yocam, *The Convergence Chronicles: Cyber Inference (2025)***
