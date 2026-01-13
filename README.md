@@ -2,7 +2,7 @@
 # MetaVoice: Biological Liveness and Forensic Inference
 
 "In a world of quantum-secured labs and digital assassins, the most dangerous weapon isn't a virus—it's a voice you think you can trust."
-— **Eric Yocam, *The Convergence Chronicles: Cyber Inference***
+— **Eric Yocam, *The Convergence Chronicles: Cyber Inference (2025)***
 
 This repository contains the MetaVoice Analysis Proof-of-Concept (POC), developed as the technical basis for the forensic methodology used by the character **Cy Quinn** in *Cyber Inference*. More information on the series and the world of Cy Quinn can be found at **[cipherghostseries.com](https://cipherghostseries.com)**.
 
